@@ -60,4 +60,66 @@ Be sure to properly use semantic tags. If you recall, some semantic tags include
 * footer
  
 #### Note: Do not style your HTML document, simply build the structure. 
+
+# 3. Coffee Shop: Landing Page HTML Structure
+
+Now that you have a menu created from the previous exercise, it is now time to notify the public that Nitro Coffee is open for business. To create some online presence for the shop, develop a website that will consist of a single a landing page.
+
+Create a file called index.html and set up a basic HTML boilerplate. Using the mockup and assets provided, ensure your landing page has the following structure.
+
+### Header & Navigation
+
+The header must include:
+
+* The navigation bar
+* A level one heading stating "Nitro Coffee"
+* A paragraph tag with the coffee definition
+* A button stating "SHOP NOW"
+* An image of a coffee bag
+
+The navigation bar must include:
+
+* An image of the coffee bean logo
+* A level two heading stating "nitro"
+* An unordered list
+ * Each item must use an anchor tag
+
+### Our Products Section
+
+The "Our Products" section must include:
+
+* A level two heading with the section name
+* A card for each product. Each card will contain:
+ * An image of the product
+ * A level three heading with the product name
+ * The price of the product
+* A button stating "VIEW ALL"
+
+
+### Discount Section
+
+The discount section must include:
+
+* A paragraph stating "Get 20% off your first order with code: FirstNitro"
+
+
+### Footer
+The footer must include:
+
+* An Address division. This division will contain:
+ * A level three heading
+ * Address information
+ 
+* An Hours division. This division will contain:
+ * A level three heading
+ * Information related to hours of operation
+ 
+* A Social division. This division will contain:
+ * Three icons for social
+ 
+For all the landing page's content, reference the screenshot provided.
+
+Remember, when building your HTML structure, be sure to use semantic tags where necessary.
+
+#### Note: Do not style your HTML document, simply build the structure.
  
