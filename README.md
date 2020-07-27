@@ -14,8 +14,8 @@ Our in-house medium roast is a classic balance between sweet vanilla, nutty haze
 $2.99
 * Espresso
 
-- A balance between bold and smooth, powerful and sweet, our signature espresso blend is a complex flavor profile. It features strong notes of semi-sweet chocolate and caramel, with mild acidity and a bright floral finish.
-*  $4.99
+  - A balance between bold and smooth, powerful and sweet, our signature espresso blend is a complex flavor profile. It features strong notes of semi-sweet chocolate and caramel, with mild acidity and a bright floral finish.
+  *  $4.99
 Cold Drinks
 Cold Brew
 Our bright and delicious coffee blend, brewed over ice to give you a cold coffee freshness with all the flavor of our amazing in-house coffee.
