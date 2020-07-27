@@ -1,10 +1,11 @@
-# Coffee-Shop-HTML
+# 1. Coffee Shop: Markup Language
 
 You have been asked to develop a menu for the new Nitro Coffee Shop that has just opened up around the corner. The problem is the coffee shop isn't run by humans, it is owned and managed by machines. Your task is to develop a menu that both customers and machines can understand. Using the syntax and semantics for a markup language, create a menu that communicates the options available for customers to order. These options are organized into the following categories:
 
-Hot drinks
-Cold drinks
-Pastries
+* Hot drinks
+* Cold drinks
+* Pastries
+
 Using the list of available items below, structure your markup document to effectively communicate all information in a meaningful way.
 
 Hot Drinks
