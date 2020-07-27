@@ -53,11 +53,11 @@ Your task is to convert your markup menu into the markup language of the web, HT
 
 Be sure to properly use semantic tags. If you recall, some semantic tags include:
 
-* <header>
-* <nav>
-* <main>
-* <section>
-* <footer>
+* header
+* nav
+* main
+* section
+* footer
  
 #### Note: Do not style your HTML document, simply build the structure. 
  
