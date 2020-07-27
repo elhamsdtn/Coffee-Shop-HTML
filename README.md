@@ -8,13 +8,14 @@ You have been asked to develop a menu for the new Nitro Coffee Shop that has jus
 
 Using the list of available items below, structure your markup document to effectively communicate all information in a meaningful way.
 
-Hot Drinks
-In-house Brew
+### Hot Drinks
+####  In-house Brew
 Our in-house medium roast is a classic balance between sweet vanilla, nutty hazelnut, and a smooth low acidity to bring everything together.
 $2.99
-Espresso
-A balance between bold and smooth, powerful and sweet, our signature espresso blend is a complex flavor profile. It features strong notes of semi-sweet chocolate and caramel, with mild acidity and a bright floral finish.
-$4.99
+* Espresso
+
+** A balance between bold and smooth, powerful and sweet, our signature espresso blend is a complex flavor profile. It features strong notes of semi-sweet chocolate and caramel, with mild acidity and a bright floral finish.
+**  $4.99
 Cold Drinks
 Cold Brew
 Our bright and delicious coffee blend, brewed over ice to give you a cold coffee freshness with all the flavor of our amazing in-house coffee.
