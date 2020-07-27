@@ -34,3 +34,30 @@ Using the list of available items below, structure your markup document to effec
 * Blueberry, Lemon and Thyme Muffin
   * Tart and sweet, this classic blueberry and lemon combination comes with an earthy twist.
   * $2.50
+
+
+# 2. Coffee Shop: Menu HTML Structure
+
+Now that the owners of Nitro Coffee understand what is on their menu through the use of a markup language, it is time to post their menu on the internet. The problem is web browsers don't understand the current markup language you have designed for the coffee shop.
+
+Your task is to convert your markup menu into the markup language of the web, HTML. Beyond the basic HTML boilerplate, your menu should include the following:
+
+*  A level one headingA navigation bar
+  * use an unordered list for your navigation links
+  * each navigation link should use an anchor tag
+  
+* Use a level two heading to define each section of the menu
+* Each item should have the following:
+  * A level three heading for the name of the item
+  * Use a paragraph tag to display the description and price
+
+Be sure to properly use semantic tags. If you recall, some semantic tags include:
+
+* <header>
+* <nav>
+* <main>
+* <section>
+* <footer>
+ 
+#### Note: Do not style your HTML document, simply build the structure. 
+ 
